@@ -50,6 +50,30 @@ import ExperienceImg from "./ExperienceImg";
 // 						"FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
 // 					color: "#fc1f20"
 // 				}
+//				{
+//          	title: " IT Administrator",
+//          	company: "Kenyariri & Associates",
+//          	company_url:
+//            		"https://opencorporates.com/companies/us_dc/EXTUID_4170286",
+//          	logo_path: "intel_logo.jpg",
+//          duration: "April 2025 - July 2025",
+//          location: "Kilimani",
+//          description:
+//            "Implemented and configured POS systems to streamline transactions and boost efficiency.Built a custom web app for case management and client services.Trained and supported staff for smooth system adoption.",
+//          color: "#0071C5",
+//        },
+//        {
+//          title: " N8N & Backend Developer",
+//          company: "Power Values",
+//          company_url:
+//            "https://powervalues.xyz/",
+//          logo_path: "",
+//          duration: "September 2025 - November 2025 ",
+//          location: "Remote(contract)",
+//          description:
+//            "Expanded n8n workflow to handle dynamic, subscription-aware form generation. Designed a small approval UI using Next.js for streamlined workflow management.",
+//          color: "#0071C5",
+//        },
 // 			]
 // 		},
 // 		{
