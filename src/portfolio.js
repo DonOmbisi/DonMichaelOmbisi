@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Don Michael Portfolio",
     type: "website",
-    url: "https://drive.google.com/file/d/15--jJIZ2x4WOMIxMIuzBjyxWqDrM4FIM/view?usp=drive_link",
+    url: "https://drive.google.com/file/d/1zqPoje1Xe1RskfVRVFsL_aAoBrwOVWfW/view?usp=sharing",
   },
 };
 
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/15--jJIZ2x4WOMIxMIuzBjyxWqDrM4FIM/view?usp=drive_link",
+    "https://drive.google.com/file/d/1zqPoje1Xe1RskfVRVFsL_aAoBrwOVWfW/view?usp=sharing",
   portfolio_repository: "https://github.com/DonOmbisi/portfolio-m",
   githubProfile: "https://github.com/DonOmbisi",
 };
@@ -48,7 +48,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/don-michael-320952256",
+    link: "https://www.linkedin.com/in/don-michael-64423b276/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -492,12 +492,36 @@ const experience = {
           title: "Data Science Intern",
           company: "Intel Indexer LLC",
           company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
+            "",
+          logo_path: "",
           duration: "January 2024 - March 2024",
           location: "Work From Home",
           description:
             "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+          color: "#0071C5",
+        },
+        {
+          title: " IT Administrator",
+          company: "Kenyariri & Associates",
+          company_url:
+            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
+          logo_path: "intel_logo.jpg",
+          duration: "April 2025 - July 2025",
+          location: "Kilimani",
+          description:
+            "Implemented and configured POS systems to streamline transactions and boost efficiency.Built a custom web app for case management and client services.Trained and supported staff for smooth system adoption.",
+          color: "#0071C5",
+        },
+        {
+          title: " N8N & Backend Developer",
+          company: "Power Values",
+          company_url:
+            "https://powervalues.xyz/",
+          logo_path: "",
+          duration: "September 2025 - November 2025 ",
+          location: "Remote(contract)",
+          description:
+            "Expanded n8n workflow to handle dynamic, subscription-aware form generation. Designed a small approval UI using Next.js for streamlined workflow management.",
           color: "#0071C5",
         },
       ],
